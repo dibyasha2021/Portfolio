@@ -3,8 +3,6 @@
 ## About
 summary 
 
-My article on Habr on matching two open data datasets with help of Machine Learning ---> [ENG](https://ai.plainenglish.io/unlocking-the-potential-of-open-data-how-to-make-it-work-for-you-a01f7ac1f19) | [RUS](https://habr.com/ru/company/tochka/blog/699490/)     
-
 My Data Analytics blog on [Medium](link)   
 
 My CV in [pdf](link) 
@@ -38,6 +36,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 	+ [Side Projects](#side-projects)
 	+ [Tableau Vizzes](#tableau-vizzes)
 - [Certificates](#certificates)
+- [Publication & Research Work](#publication-&-research-work)
 - [Contacts](#contacts)
 
 ## Portfolio Projects
@@ -65,6 +64,7 @@ This self-paced course explores such topics as Basics of Statistics, Hypothesis 
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
 - [Advanced A/B Testing Course](https://drive.google.com/file/d/1rGfXuVLWLkxzrPLE-NgHizMN-tpoZibA/view) (Jun 2023) (karpov.courses)
 
+## Publication & Research Work
 
 ## Contacts
 - LinkedIn: [@dibyasha](https://www.linkedin.com/in/dibyasha-mahapatra-3b5a78229/)
